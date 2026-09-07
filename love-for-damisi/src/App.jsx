@@ -15,7 +15,7 @@ function App() {
       setError("");
       setPage(2);
     } else {
-      setError("Hmmmm... that's not the person I'm looking for 👀❤️");
+      setError("Hmmmm... is that my name???👀");
     }
   };
 
